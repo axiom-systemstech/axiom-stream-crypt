@@ -40,3 +40,10 @@ El mismo motor, pero empaquetado como:
 
 ```bash
 docker run -p 8080:8080 axiom-stream-crypt:latestVersión enterprise bajo acuerdo comercial.
+```
+## 📄 Licencia
+Open source. Versión enterprise bajo acuerdo comercial.
+
+## 📬 Contacto
+¿Necesitas el proxy Gateway en Rust para tu empresa?
+https://axiom-systemstech.github.io/axiom-systems/
